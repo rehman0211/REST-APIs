@@ -1,0 +1,36 @@
+Patients API : 
+
+	   {
+		patient_ID : 
+		name : 
+		age :
+		deptt :
+	   }
+
+
+
+
+	   {
+		"patient_ID" : "007-amk-57",
+		"name" : "Prakash Raj",
+		"age" : 27
+		"deptt" :"dental"
+	   }
+
+	   {
+		"patient_ID" : "097-bln-54",
+		"name" : "Fardeen Khan",
+		"age" : 56
+		"deptt" :"ortho"
+	   }
+
+	updated one :
+				patient_ID		007-amk-57
+
+
+	   {
+		"patient_ID" : "007-amk-57",
+		"name" : "Prakash Kumar Singh",
+		"age" : 31
+		"deptt" :"cardio"
+	   }

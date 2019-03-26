@@ -1,0 +1,35 @@
+
+
+	Students API : 
+
+	   {
+		college_ID : 
+		name : 
+		course :
+	   }
+
+
+
+
+	   {
+		"college_ID" : "17COM038",
+		"name" : "Rahul",
+		"course" :"B.Com"
+	   }
+
+	   {
+		"college_ID" : "18ELB137",
+		"name" : "Prakash",
+		"course" : "B.Tech"
+	   }
+
+
+
+	updated one:
+				college_ID	17COM038
+
+	   {
+		"college_ID" : "17ART076"
+		"name" : "Rahul Rai"
+		"course" : "B.A."
+	   }

@@ -1,0 +1,34 @@
+	
+
+
+
+
+Hello,Everyone!!!
+	
+	Today , I am going to show 3 REST API that I have done for an Internship task....
+	
+	The 3 APIs are :-
+
+	1. Student API
+	2. Book API
+	3. Patient API
+
+	First, I am going to start mongoDB server.
+	Second, Starting the Postman
+
+
+
+	1st API : Student API	
+	   => starting the node aap.
+	   => Showing the CRUD operations
+
+
+	2nd API : Book API	
+	   => starting the node aap.
+	   => Showing the CRUD operations
+
+
+
+	3rd API : Patient API	
+	   => starting the node aap.
+	   => Showing the CRUD operations
